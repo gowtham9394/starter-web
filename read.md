@@ -1,6 +1,7 @@
 #starter webprject  
 this git project which we are using as sample project 
-hello
+
+## this a sample git project
 
 
 ## introuductions 
