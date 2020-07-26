@@ -5,7 +5,6 @@ jQuery
 python 
 pss
 modifited
+<<<<<<< HEAD
 comiited
 docker
-AWS
-ML
